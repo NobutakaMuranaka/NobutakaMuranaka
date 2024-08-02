@@ -1,9 +1,8 @@
 ## Links
-* [Wantedly](https://www.wantedly.com/id/ayatakaa_chan)
-* [YOUTRUST](https://youtrust.jp/users/ayatakaa_chan)
 * [X（Work Account）](https://x.com/wage790)
-* [X（Private Account）](https://x.com/home)
+* [X（Private Account）](https://x.com/ayatakaa_chan)
 * [職務経歴書](https://github.com/user-attachments/files/16464426/_.pdf)
+* [Wantedly](https://www.wantedly.com/id/ayatakaa_chan)
 
 ## Hobbies
 * 旅を通して物事の移り変わりを感じること
