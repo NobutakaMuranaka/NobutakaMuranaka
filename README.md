@@ -6,6 +6,8 @@
 * 技術記事は[Zenn](https://zenn.dev/ayatakaa_chan)に投稿しています
 * [X（仕事垢）](https://x.com/wage790)
 * [X（プライベート垢）](https://x.com/home)
+* 職務経歴書
+[村中信隆_職務経歴書.pdf](https://github.com/user-attachments/files/16464426/_.pdf)
 
 ## 好きなこと
 旅を通して物事の移り変わりを感じること
