@@ -1,15 +1,11 @@
-## 基本情報
-株式会社スタメンのマーケティング部所属
+## Links
+* [Wantedly](https://www.wantedly.com/id/ayatakaa_chan)
+* [YOUTRUST](https://youtrust.jp/users/ayatakaa_chan)
+* [X（Work Account）](https://x.com/wage790)
+* [X（Private Account）](https://x.com/home)
+* [職務経歴書](https://github.com/user-attachments/files/16464426/_.pdf)
 
-## SNS
-* [Wantedly](https://www.wantedly.com/id/ayatakaa_chan)、[YOUTRUST](https://youtrust.jp/users/ayatakaa_chan)やってます
-* 技術記事は[Zenn](https://zenn.dev/ayatakaa_chan)に投稿しています
-* [X（仕事垢）](https://x.com/wage790)
-* [X（プライベート垢）](https://x.com/home)
-* 職務経歴書
-[村中信隆_職務経歴書.pdf](https://github.com/user-attachments/files/16464426/_.pdf)
-
-## 好きなこと
-旅を通して物事の移り変わりを感じること
-レコード収集
-喫茶店
+## Hobbies
+* 旅を通して物事の移り変わりを感じること
+* レコード収集
+* 喫茶店で考えごと
